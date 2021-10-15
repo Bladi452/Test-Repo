@@ -1,0 +1,26 @@
+{
+  "name": "Test-Repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bladi452/Test-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bladi452/Test-Repo/issues"
+  },
+  "homepage": "https://github.com/Bladi452/Test-Repo#readme",
+  "dependencies": {
+    "uaup-js": "0.0.22"
+  },
+  "devDependencies": {
+    "electron": "^15.2.0"
+  }
+}
